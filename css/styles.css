@@ -1,1 +1,10 @@
-        
+p {
+  color: coral;
+  background-color: rgb(238, 186, 238);
+}
+li {
+  color: rgb(150, 215, 20);
+}
+a {
+  color: rgb(69, 32, 34);background-color: rgb(128, 182, 182);
+ 
