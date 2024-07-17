@@ -1,10 +1,95 @@
-p {
-  color: coral;
-  background-color: rgb(238, 186, 238);
+body {
+  background-color: aqua;
 }
+
+color: coral;
+background-color: rgb(238, 186, 238);
+
 li {
-  color: rgb(150, 215, 20);
+  color: rgb(192, 236, 34);
+}
+
+header .list:hover,
+header .list:focus {
+  color: rgb(255, 2, 2);
+  background-color: rgb(229, 255, 0);
+}
+.list:hover {
+  color: rgb(187, 202, 47);
+}
+.text:hover {
+  color: rgb(193, 11, 141);
+}
+button {
+  color: orange;
+  background-color: rgb(48, 90, 206);
+}
+.btn:hover {
+  color: rgb(255, 0, 115);
+}
+.btn:active {
+  color: rgb(26, 240, 119);
+}
+.list:active,
+.list:focus {
+  color: rgb(0, 205, 72);
+}
+.list {
+  font-size: 30px;
+  font-weight: 500;
+  font-size: 20px;
 }
 a {
-  color: rgb(69, 32, 34);background-color: rgb(128, 182, 182);
- 
+  text-decoration: underline;
+}
+header a {
+  text-decoration: underline;
+  background-color: rgb(59, 241, 98);
+  font-size: 20px;
+  font-style: italic;
+  text-decoration: none;
+}
+.fam {
+  color: rgb(87, 0, 169);
+  font-size: 60px;
+  text-shadow: 2px 2px 4px black;
+  text-transform: uppercase;
+  text-align: center;
+}
+nav {
+  background-color: rgb(152, 102, 37);
+}
+#and {
+  text-decoration: underline;
+  background-color: rgb(188, 212, 3);
+  font-style: initial;
+}
+.Basya {
+  text-decoration: underline;
+  font-size: 30px;
+  font-style: italic;
+  color: rgb(6, 209, 37);
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+.andy {
+  font-size: 50px;
+  color: rgb(237, 10, 154);
+  text-shadow: 2px 2px 4px black;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+footer {
+  background-color: rgb(13, 71, 8);
+}
+footer p {
+  color: bisque;
+}
+.bay {
+  color: rgb(121, 45, 45);
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 700;
+}
