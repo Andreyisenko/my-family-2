@@ -65,7 +65,7 @@ nav {
   font-style: initial;
 }
 .Basya {
-  text-decoration: underline;
+  text-decoration-line: underline;
   font-size: 30px;
   font-style: italic;
   color: rgb(6, 209, 37);
@@ -92,4 +92,10 @@ footer p {
   font-size: 30px;
   font-style: italic;
   font-weight: 700;
+}
+
+img {
+  margin: 0%;
+  background-color: brown;
+  object-fit: cover;
 }
